@@ -4,7 +4,7 @@ using namespace std;
 
 void hello_world();
 
-int main()
+int main()// main function
 {
   hello_world();
   hello_world();
@@ -16,5 +16,5 @@ int main()
 
 void hello_world()// function
 {
-   cout<<"Hello World!"<<endl;
+   cout<<"Hello\tWorld!"<<endl;
 }
