@@ -14,7 +14,7 @@ int main()
   return 0;
 }
 
-void hello_world()
+void hello_world()// function
 {
    cout<<"Hello World!"<<endl;
 }
